@@ -259,6 +259,15 @@ ul {
   padding: 5rem 0;
 }
 
+.btn-container {
+  /* border: 2px solid red; */
+  margin: 2rem 0 4rem 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
 .section-center {
   width: 90vw;
   margin: 0 auto;
